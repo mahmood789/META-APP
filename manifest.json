@@ -6,6 +6,9 @@
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
+  "R": {
+    "version": "4.3.2"
+  },
   "icons": [
     {
       "src": "icons/icon-192x192.png",
